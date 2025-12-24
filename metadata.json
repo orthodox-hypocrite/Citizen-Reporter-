@@ -1,0 +1,8 @@
+{
+  "name": "CivicConnect AI",
+  "description": "An AI-powered urban management platform for reporting and resolving civic issues like potholes and leaks using computer vision and geospatial analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
